@@ -1,0 +1,14 @@
+! phi [-]
+1.0
+! pressure [atm]
+1.0
+! Minimum of Initial Temperature [K]
+1000 
+! Maximum of Initial Temperature [K]
+1500
+! How many steps in Temperature range
+20
+! Final time of integration [s]
+6.0e-4
+! Delta time [s]
+1.0e-6
